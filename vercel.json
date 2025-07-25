@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://kleverboyai.com/auto",
+      "permanent": true
+    }
+  ]
+}
